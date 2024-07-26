@@ -19,6 +19,14 @@
 
 ## 🚀 기술 스택
 
+### Front-End
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
+
 ### Back-End
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
