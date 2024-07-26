@@ -17,11 +17,6 @@
 
 <br><br>
 
-## 💾 ERD 구조
-![db](https://github.com/user-attachments/assets/00e91900-7002-4b53-a57a-cc9676980b46)
-
-<br><br>
-
 ## 🚀 기술 스택
 
 ### Front-End
@@ -56,3 +51,10 @@
 
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+
+<br><br>
+
+## 💾 ERD 구조
+![db](https://github.com/user-attachments/assets/00e91900-7002-4b53-a57a-cc9676980b46)
+
+<br><br>
