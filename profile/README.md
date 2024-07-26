@@ -17,6 +17,11 @@
 
 <br><br>
 
+## 💾 ERD 구조
+![db](https://github.com/user-attachments/assets/00e91900-7002-4b53-a57a-cc9676980b46)
+
+<br><br>
+
 ## 🚀 기술 스택
 
 ### Front-End
